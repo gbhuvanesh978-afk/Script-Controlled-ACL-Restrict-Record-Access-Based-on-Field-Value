@@ -131,7 +131,49 @@ if (gs.hasRole('admin')) {
 - `answer = true;` allows this ACL check to pass when a condition is satisfied.
 
 *This is an illustrative example, not necessarily the exact script used in the completed project. The actual ACL script and field names depend on your implementation.*
+## 📸  Project Screenshots
 
+The following screenshots demonstrate the script configuration and implementation of the Script-Controlled ACL project in the ServiceNow Developer Instance.
+
+### 🖥️ ACL Script Configuration
+
+<p align="center">
+  <img src="Script%201.png" alt="ACL Script Configuration - 1" width="800"/>
+  <br/>
+  <em>Script 1 – ACL configuration</em>
+</p>
+
+<p align="center">
+  <img src="Script%202.png" alt="ACL Script Configuration - 2" width="800"/>
+  <br/>
+  <em>Script 2 – Script implementation</em>
+</p>
+
+<p align="center">
+  <img src="script%203.png" alt="ACL Script Configuration - 3" width="800"/>
+  <br/>
+  <em>Script 3 – Security logic</em>
+</p>
+
+<p align="center">
+  <img src="Script%204.png" alt="ACL Script Configuration - 4" width="800"/>
+  <br/>
+  <em>Script 4 – Access control implementation</em>
+</p>
+
+<p align="center">
+  <img src="Script%205.png" alt="ACL Script Configuration - 5" width="800"/>
+  <br/>
+  <em>Script 5 – Field-based access validation</em>
+</p>
+
+<p align="center">
+  <img src="Script%206.png" alt="ACL Script Configuration - 6" width="800"/>
+  <br/>
+  <em>Script 6 – Project configuration and validation</em>
+</p>
+
+> **Note:** These captions are placeholders. Update them to match the actual content of each screenshot.
 ## 🧪 6. Testing and Validation
 
 The access-control logic can be validated using different users, field values, and record-access scenarios.
